@@ -14,19 +14,6 @@ Table of contents:
   - [Optical Flow](#optical-flow)
 - [Others](#others)
 
-[//]: # (If you have any further questions, please feel free to contact Haoying &#40;Jack&#41; Zhou for more information.)
-
-[//]: # (- Email)
-
-[//]: # (  - hzhou6@wpi.edu)
-
-[//]: # (  - hzhou62@jh.edu)
-
-[//]: # (- Github: https://github.com/jackzhy96)
-
-[//]: # ()
-[//]: # (Alternatively, you can also create an issue in this repository.)
-
 # Introduction
 
 This repository contains scripts for post-collection data processing for multi-modal data collected by dVRK.
