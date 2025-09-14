@@ -14,13 +14,18 @@ Table of contents:
   - [Optical Flow](#optical-flow)
 - [Others](#others)
 
-If you have any further questions, please feel free to contact Haoying (Jack) Zhou for more information.
-- Email
-  - hzhou6@wpi.edu
-  - hzhou62@jh.edu
-- Github: https://github.com/jackzhy96
+[//]: # (If you have any further questions, please feel free to contact Haoying &#40;Jack&#41; Zhou for more information.)
 
-Alternatively, you can also create an issue in this repository.
+[//]: # (- Email)
+
+[//]: # (  - hzhou6@wpi.edu)
+
+[//]: # (  - hzhou62@jh.edu)
+
+[//]: # (- Github: https://github.com/jackzhy96)
+
+[//]: # ()
+[//]: # (Alternatively, you can also create an issue in this repository.)
 
 # Introduction
 
